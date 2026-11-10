@@ -1,0 +1,2 @@
+"NSBluetoothAlwaysUsageDescription" = "Shifty se conecta a tu Shimano Di2 por Bluetooth para leer sus botones.";
+"NSLocalNetworkUsageDescription" = "Shifty se anuncia en tu red local para que Zwift y MyWhoosh puedan recibir los cambios de marcha.";
